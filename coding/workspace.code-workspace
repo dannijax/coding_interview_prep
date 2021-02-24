@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../rust/rocket"
+		},
+		{
+			"path": "../../node/node_backend"
+		},
+		{
+			"path": "../../../../projects/src/github.com/dannijax/blusalt/allMessagingApp"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,6 @@
+Question: A party is going on with n number of attendees, 
+with only a single person who is known to every party attendee. 
+This person may be present at the party. However, this person doesn’t
+ know anyone at the party, and we can only ask questions like, 
+ does A know B? How will you find the stranger with the minimum number of questions asked? 
+ Also, in how many ways can we solve this problem?
